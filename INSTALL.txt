@@ -1,0 +1,14 @@
+The files in this directory (model01.inf and model01.cat) are the Keyboardio Model 01
+serial drivers for Windows. To install these drivers:
+
+1. If you downloaded the drivers in a ZIP file, extract it to a temporary folder
+   on your computer.
+
+2. Open the folder containing these files. Right click on "model01.inf" and
+   select "Install".
+
+3. Windows will ask you whether you want to install the drivers. Click "Install"
+   (Windows 10, 8, 7, and Vista) or "Continue Anyway" (Windows XP).
+
+4. Windows will not tell you when the installation is complete, but it should be
+   done after a few seconds.
